@@ -4,7 +4,7 @@ pipeline {
     environment {
         SONARQUBE = 'SonarCloud'  // Nombre del servidor SonarQube configurado en Jenkins
         SONAR_TOKEN = credentials('SONAR_TOKEN')  // Token de SonarCloud como credencial
-        PROJECT_KEY = 'CristhoperSocalayR_mastermicroservice'  // Nombre corregido del proyecto en SonarCloud
+        PROJECT_KEY = 'CristhoperSocalayR_tkardex'  // Nombre corregido del proyecto en SonarCloud
         SONAR_ORGANIZATION = 'cristhopersocalayr'  // Organización en SonarCloud
     }
     
