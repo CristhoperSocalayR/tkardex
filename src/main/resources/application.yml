@@ -1,0 +1,16 @@
+server:
+  port: 8085
+
+spring:
+  application:
+    name: MovementTransaccional
+
+  r2dbc:
+    url: r2dbc:postgresql://aws-0-us-west-1.pooler.supabase.com:5432/postgres
+    username: postgres.syyjmpdsuuorxysggtsn
+    password: cristhopersocalay2025
+
+  r2dbc.pool:
+    enabled: true
+    initial-size: 5
+    max-size: 20

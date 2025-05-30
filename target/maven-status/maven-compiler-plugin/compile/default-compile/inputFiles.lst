@@ -1,0 +1,6 @@
+/workspaces/tkardex/src/main/java/edu/pe/vallegrande/MovementKardex/controller/ControllerMovementKardex.java
+/workspaces/tkardex/src/main/java/edu/pe/vallegrande/MovementKardex/service/MovementKardexService.java
+/workspaces/tkardex/src/main/java/edu/pe/vallegrande/MovementKardex/config/SwaggerConfig.java
+/workspaces/tkardex/src/main/java/edu/pe/vallegrande/MovementKardex/repository/MovementKardexRepository.java
+/workspaces/tkardex/src/main/java/edu/pe/vallegrande/MovementKardex/MovementKardexApplication.java
+/workspaces/tkardex/src/main/java/edu/pe/vallegrande/MovementKardex/model/MovementKardex.java

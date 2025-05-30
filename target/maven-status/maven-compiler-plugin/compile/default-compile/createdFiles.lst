@@ -1,0 +1,6 @@
+edu/pe/vallegrande/MovementKardex/config/SwaggerConfig.class
+edu/pe/vallegrande/MovementKardex/controller/ControllerMovementKardex.class
+edu/pe/vallegrande/MovementKardex/repository/MovementKardexRepository.class
+edu/pe/vallegrande/MovementKardex/MovementKardexApplication.class
+edu/pe/vallegrande/MovementKardex/service/MovementKardexService.class
+edu/pe/vallegrande/MovementKardex/model/MovementKardex.class
